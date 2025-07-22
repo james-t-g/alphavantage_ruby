@@ -1,0 +1,22 @@
+{
+    "endpoint": "Realtime Options",
+    "message": "success",
+    "data": [
+        {
+            "contractID": "IBM250725C00135000",
+            "symbol": "IBM",
+            "expiration": "2025-07-25",
+            "strike": "135.00",
+            "type": "call",
+            "last": "0.00",
+            "mark": "147.55",
+            "bid": "146.25",
+            "bid_size": "63",
+            "ask": "148.85",
+            "ask_size": "5",
+            "volume": "0",
+            "open_interest": "0",
+            "date": "2025-07-22"
+        }
+    ]
+}
