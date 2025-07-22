@@ -26,6 +26,6 @@ describe Alphavantage::Configuration do
 
     expect(key1.class).to   eq(Time)
     expect(key2.class).to   eq(Time)
-    expect(key1 < Key2).to  be(true)
+    expect(key1 < key2).to  be(true)
   end
 end
